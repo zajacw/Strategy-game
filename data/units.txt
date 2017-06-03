@@ -1,6 +1,0 @@
-0 Pikemen 10 10 3 4 3 4 1 10 5 Halberd
-1 Archers 10 10 4 5 2 3 2 14 7 Long_bow
-2 Scouts 5 5 5 5 3 3 3 10 5 Short_bow
-3 Mages 5 5 1 1 1 1 2 20 10 Dagger
-4 Warriors 15 20 5 5 1 2 2 24 12 Dwarven_waraxe
-5 Priests 15 15 1 1 1 1 3 30 15 Dagger
