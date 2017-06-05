@@ -13,5 +13,7 @@ Maps are build in txt files in smiliar way to my platform game project. All nece
 
 The fighting system was inspired by d20 and Dungeons&Dragons mechanics. Unfortunatelly I haven't provide graphical battle system, so it is dice-rolling and battling automatically.
 
+The game is saved by going back to main menu (pressing ESC).
+
 The mouse controls also haven't been programmed, so the only way (right now) to build, shop and recruit is only by typing commands.
 Yes, the commandline (and console) is included, cheats can be provided.
